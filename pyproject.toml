@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "my_project"
 version = "0.1.0"
 authors = [
-    { name = "Your Name", email = "your.email@example.com" },
+    { name = "Deepak Gupta", email = "deepakdgupta1@gmail.com" },
 ]
 description = "A short description of your project"
 readme = "README.md"
